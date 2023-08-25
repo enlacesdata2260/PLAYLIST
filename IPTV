@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:0,Disney Jr.
+udp://@239.50.50.4:49152
+#EXTINF:0,Cartoon Network
+udp://@239.50.50.1:49152
+#EXTINF:0,Nick
+udp://@239.50.50.2:49152
+#EXTINF:0,HD ESPN 2
+udp://@239.50.50.3:49152
+#EXTINF:0,HD TyC Sports
+udp://@239.50.50.11:49152
+#EXTINF:0,HD Golden Plus
+udp://@239.50.50.5:49152
+#EXTINF:0,HD HBO
+udp://@239.50.50.6:49152
+#EXTINF:0,HD Animal Planet
+udp://@239.50.50.7:49152
+#EXTINF:0,HD Pasiones
+udp://@239.50.50.8:49152
+#EXTINF:0,Cinemax
+udp://@239.50.50.9:49152
+#EXTINF:0,El Gourmet
+udp://@239.50.50.10:49152
+#EXTINF:0,HD Fox Sports 3
+udp://@239.50.50.12:49152
+#EXTINF:0,CNN Internacional
+udp://@239.50.53.10:49152
+#EXTINF:0,HD TVN
+udp://@239.50.53.2:49152
+#EXTINF:0,HD MEGA
+udp://@239.50.53.12:49153
+#EXTINF:0,HD CHV
+udp://@239.50.53.3:49153
+#EXTINF:0,HD Canal 13
+udp://@239.50.53.1:49153
+#EXTINF:0,HD Star Channel
+udp://@239.50.53.11:49152
+#EXTINF:0,HD FX
+udp://@239.50.53.4:49152
+#EXTINF:0,HD Space
+udp://@239.50.53.5:49152
+#EXTINF:0,Universal TV
+udp://@239.50.53.6:49152
+#EXTINF:0,Multipremier
+udp://@239.50.53.7:49152
+#EXTINF:0,Studio Universal
+udp://@239.50.53.9:49152
+#EXTINF:0,TNT Novelas
+udp://@239.50.53.8:49152
