@@ -1,0 +1,145 @@
+#EXTM3U
+
+#EXTINF:0, HD CHV
+udp://@225.0.0.1:5000
+
+#EXTINF:0, TVN 24 Horas
+udp://@225.0.0.2:5000
+
+#EXTINF:0, La Red
+udp://@225.0.0.3:5000
+
+#EXTINF:0, HD Canal 13
+udp://@225.0.0.4:5000
+
+#EXTINF:0, HD MEGA
+udp://@225.0.0.5:5000
+
+#EXTINF:0, HD TVN
+udp://@225.0.0.6:5000
+
+#EXTINF:0, CNN Chile
+udp://@225.0.0.7:5000
+
+#EXTINF:0, Telemundo Internacional
+udp://@225.0.0.8:5000
+
+#EXTINF:0, Telefe
+udp://@225.0.0.9:5000
+
+#EXTINF:0, HD Star Channel
+udp://@225.0.0.10:5000
+
+#EXTINF:0, HD ESPN EXTRA
+udp://@225.0.0.11:5000
+
+#EXTINF:0, HD ESPN
+udp://@225.0.0.12:5000
+
+#EXTINF:0, HD ESPN 2
+udp://@225.0.0.48:5000
+
+#EXTINF:0, HD ESPN 3
+udp://@225.0.0.22:5000
+
+#EXTINF:0, Fox Sport 3
+udp://@225.0.0.31:5000
+
+#EXTINF:0, Discovery Turbo
+udp://@225.0.0.40:5000
+
+#EXTINF:0, HD Disney Channel
+udp://@225.0.0.13:5000
+
+#EXTINF:0, HD Nick
+udp://@225.0.0.14:5000
+
+#EXTINF:0, Disney Jr.
+udp://@225.0.0.15:5000
+
+#EXTINF:0, HD Cartoon Network
+udp://@225.0.0.16:5000
+
+#EXTINF:0, Sony
+udp://@225.0.0.17:5000
+
+#EXTINF:0, A&E
+udp://@225.0.0.18:5000
+
+#EXTINF:0, E!
+udp://@225.0.0.19:5000
+
+#EXTINF:0, MTV
+udp://@225.0.0.20:5000
+
+#EXTINF:0, El Gourmet
+udp://@225.0.0.21:5000
+
+#EXTINF:0, HD Hola TV
+udp://@225.0.0.23:5000
+
+#EXTINF:0, HD Warner TV
+udp://@225.0.0.24:5000
+
+#EXTINF:0, HD National Geographic
+udp://@225.0.0.25:5000
+
+#EXTINF:0, I-Sat
+udp://@225.0.0.26:5000
+
+#EXTINF:0, TCM
+udp://@225.0.0.27:5000
+
+#EXTINF:0, HD Home & Health
+udp://@225.0.0.28:5000
+
+#EXTINF:0, Universal TV
+udp://@225.0.0.29:5000
+
+#EXTINF:0, Studio Universal
+udp://@225.0.0.30:5000
+
+#EXTINF:0, TruTV
+udp://@225.0.0.32:5000
+
+#EXTINF:0, HD Cinecanal
+udp://@225.0.0.33:5000
+
+#EXTINF:0, Cinemax
+udp://@225.0.0.34:5000
+
+#EXTINF:0, HD HBO
+udp://@225.0.0.35:5000
+
+#EXTINF:0, HD AXN
+udp://@225.0.0.36:5000
+
+#EXTINF:0, HD Univision
+udp://@225.0.0.37:5000
+
+#EXTINF:0, De Pelicula
+udp://@225.0.0.38:5000
+
+#EXTINF:0, Discovery Science
+udp://@225.0.0.39:5000
+
+#EXTINF:0, HD TNT
+udp://@225.0.0.41:5000
+
+#EXTINF:0, TNT Series
+udp://@225.0.0.42:5000
+
+#EXTINF:0, Golden
+udp://@225.0.0.43:5000
+
+#EXTINF:0, HD Animal Planet
+udp://@225.0.0.44:5000
+
+#EXTINF:0, CNN Español
+udp://@225.0.0.45:5000
+
+#EXTINF:0, CNN Internacional
+udp://@225.0.0.46:5000
+
+#EXTINF:0, Antena 3
+udp://@225.0.0.47:5000
